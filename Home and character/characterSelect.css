@@ -1,0 +1,20 @@
+body {
+   background-color: #dec4a776 ;
+}
+.mybutton{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.mystart-btn {
+    display: inline-block;
+    padding: 20px 60px;
+    margin-top: 150px;
+    font-size: 39px;
+    text-decoration: none;
+    background-color: #d6d5b6;
+    color: #b99099;
+    border-radius: 8px;
+}

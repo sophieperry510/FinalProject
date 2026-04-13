@@ -18,3 +18,8 @@ body {
     color: #b99099;
     border-radius: 8px;
 }
+
+.girlsPhotos {
+    display: inline;
+   margin-left: 95px;
+}

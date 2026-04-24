@@ -1,5 +1,16 @@
 body {
-   background-color: #dec4a776 ;
+   background-color: #dec4a776;
+
+}
+.myGameScreen {
+    background-image: url("kiaraKitchen.png") ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+
+
+
 }
 
 .mytitle {

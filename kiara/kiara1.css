@@ -4,10 +4,10 @@ body {
 }
 .myGameScreen {
     background-image: url("kiaraKitchen.png") ;
-background-position: center;
+background-position:bottom;
 background-repeat: no-repeat;
 background-size: cover;
-height: 600px;
+height: 667px;
 
 
 

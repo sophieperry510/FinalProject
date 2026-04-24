@@ -2,16 +2,16 @@ body {
    background-color: #dec4a776;
 
 }
+
 .myGameScreen {
+    flex: 1;
     background-image: url("kiaraKitchen.png") ;
-background-position:top;
-background-repeat: no-repeat;
-background-size: cover;
-height: 667px;
+    background-size: contain;
+    background-repeat: no-repeat;
+background-position:center;
 
+ }
 
-
-}
 
 .mytitle {
     text-align: center;
@@ -65,13 +65,13 @@ margin-bottom: 10px;
 color: #000000;
 }
 
-/* Dialogue text */
+
 .text {
 font-size: 18px;
 }
 
 
-/* Next button */
+
 .mynext-btn {
 position: absolute;
 right: 20px;

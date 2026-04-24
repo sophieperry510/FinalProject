@@ -78,3 +78,10 @@ text-decoration: none;
 .mynext-btn:hover {
 background: #7d6268;
 }
+/*
+.center {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}

@@ -2,7 +2,7 @@ body {
    background-color: #dec4a776;
 
 }
-
+/*
 .myGameScreen {
     flex: 1;
     display: flex;
@@ -16,7 +16,7 @@ body {
     max-height: 100%;
     object-fit: contain;
  }
-
+*/
 
 .mytitle {
     text-align: center;
